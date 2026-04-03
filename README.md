@@ -1,2 +1,2 @@
-# LiquidOSINT
-Multi-Purposed Roblox osint tool Made for FriendScrape
+# LiquidHub
+Multi-Purposed Roblox Hub, made by liquid._._._
